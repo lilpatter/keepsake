@@ -4,7 +4,7 @@ Find your emulator saves and edit them, with each game's own artwork. A small na
 
 **[Download the latest release](https://github.com/lilpatter/keepsake/releases/latest)**: `Keepsake_<version>_x64-setup.exe` installs it, `keepsake.exe` runs without installing.
 
-More at [lilpatter.github.io](https://lilpatter.github.io).
+More at [lilpatter.github.io/keepsake](https://lilpatter.github.io/keepsake/).
 
 ## What it does
 
