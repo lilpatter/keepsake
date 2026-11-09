@@ -1,6 +1,6 @@
 # Keepsake
 
-Find your emulator saves and edit them, with each game's own artwork. A small native Windows app by PG.
+Find your emulator saves and edit them, with each game's own artwork. A small native app for Windows 10 and 11, by PG.
 
 **[Download the latest release](https://github.com/lilpatter/keepsake/releases/latest)**: `Keepsake_<version>_x64-setup.exe` installs it, `keepsake.exe` runs without installing.
 
@@ -30,6 +30,8 @@ More at [lilpatter.github.io/keepsake](https://lilpatter.github.io/keepsake/).
 ## Requirements
 
 Windows 10 or 11 with the WebView2 runtime, which ships with Windows 11.
+
+Keepsake is a Windows app. There's no Mac version yet: the Mac-style sidebar and window buttons are just part of its design.
 
 ## Updates
 
