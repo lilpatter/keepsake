@@ -10,13 +10,16 @@ More at [lilpatter.github.io/keepsake](https://lilpatter.github.io/keepsake/).
 
 ## What it does
 
-- **Your emulators, in one library.** RPCS3 (PlayStation 3) and Lichii (Nintendo Switch and Switch 2), together. Keepsake finds each emulator and its games, and lists every save, for every RPCS3 user and Lichii profile.
-- **Play.** Start any game straight from Keepsake, without the emulator's game list, full screen if you like.
+- **Your emulators, in one library.** RPCS3 (PlayStation 3), Lichii and Fritchii (Nintendo Switch and Switch 2), together. Keepsake finds each emulator and its games, and lists every save, for every RPCS3 user and Lichii profile. PCSX2, Dolphin, Cemu, PPSSPP and Xenia are coming.
+- **Play.** Start any game straight from Keepsake, without the emulator's game list, full screen if you like. Your emulator settings and controllers are used as they are.
 - **Edit saves.**
   - **LEGO Batman: The Videogame**: studs, every level's story, Red Power Brick, Mini-kits and 100% flags, all 46 characters and 32 vehicles, all 20 Extras, all 15 suit upgrades and all 54 Batman facts.
   - **LEGO Indiana Jones: The Original Adventures**: studs, every level's story, parcel, Artefacts and 100% flags, the bonus levels, all 83 characters and all 24 Extras.
-- **Real artwork.** Portraits, shop icons and pickups come from your own copy of each game. Library art comes from Nintendo, the Steam store and, with your own key, SteamGridDB.
-- **Backups.** Every save is copied before Keepsake changes it. Restore any backup in one click.
+  - **LEGO Pirates of the Caribbean: The Video Game**: studs, all 20 levels' story, Red Hat, Minikits and True Pirate, all 80 characters and the 20 Extras the Red Hats unlock.
+  - **The Legend of Zelda: Ocarina of Time** (Switch 2), each of the six save slots: rupees, hearts, magic, Gold Skulltula tokens, every item, upgrade and bottle, swords, shields, tunics and boots, stones, medallions, all 12 songs, keys, masks and trading items.
+- **Saves from a real PS3.** Saves copied from a console are decrypted and written back the way RPCS3 keeps them. The backup keeps the encrypted original.
+- **Real artwork.** Portraits, shop icons and pickups come from your own copy of each game; Keepsake ships no game files. Library art comes from Nintendo's eShop, the Steam store and, with your own key, SteamGridDB.
+- **Backups.** Every save is copied before Keepsake changes it, and you can back up any save by hand, Switch saves included. Restore any backup in one click. Keepsake won't touch a save while its emulator is running.
 
 ## Screenshots
 
@@ -41,7 +44,7 @@ Keepsake updates itself from this page's releases and checks each download again
 
 Made by [PG](https://lilpatter.github.io).
 
-Not affiliated with the RPCS3 or Lichii projects, Nintendo, Sony Interactive Entertainment, Warner Bros. Games, TT Games or the LEGO Group.
+Not affiliated with the RPCS3, Lichii or Fritchii projects, Nintendo, Sony Interactive Entertainment, Warner Bros. Games, Disney, TT Games or the LEGO Group.
 
 ---
 
